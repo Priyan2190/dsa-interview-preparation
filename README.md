@@ -49,8 +49,8 @@ Solutions are organised by topic to make revision easier.
 | Metric | Target |
 |---|---:|
 | Total problems | 100–150 |
-| Easy | To be updated |
-| Medium | To be updated |
+| Easy | 3 |
+| Medium | 4 |
 | Hard | To be updated |
 
 ## Language and Resources
